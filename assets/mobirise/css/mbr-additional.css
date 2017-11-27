@@ -2026,8 +2026,17 @@ body {
     padding: 0 0 2rem 0 !important;
   }
 }
-.cid-qBtteNrZOB {
+.cid-qCcmF60RDR {
   padding-top: 60px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-qCcmF60RDR H2 {
+  color: #030303;
+  text-align: center;
+}
+.cid-qBtteNrZOB {
+  padding-top: 15px;
   padding-bottom: 120px;
   background-color: #ffffff;
 }
