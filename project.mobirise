@@ -2068,11 +2068,11 @@
           "_params": {
             "slides__autoplay": false,
             "slides__autoplayInterval": 4000,
-            "slides__showBullets": true,
+            "slides__showBullets": false,
             "slides": [
               {
                 "image": "@THEME_PATH@/components/_images/carousel/2.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -2089,17 +2089,17 @@
               },
               {
                 "image": "@THEME_PATH@/components/_images/carousel/2.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
-                "showText": true,
+                "showText": false,
                 "showTitle": false,
                 "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=395mkcujBxU",
+                "videoUrl": "https://www.youtube.com/watch?v=VT7gotFV7n0",
                 "customStyle1": "display-2",
                 "customStyle2": "display-7",
                 "customStyle3": "display-4",
                 "title": "VIDEO SLIDE",
-                "overlay": true,
+                "overlay": false,
                 "contentAlign": "center",
                 "text": "Slide with youtube video background and color overlay. Title and text are aligned to the left.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
